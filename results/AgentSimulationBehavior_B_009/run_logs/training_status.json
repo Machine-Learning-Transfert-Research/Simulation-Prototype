@@ -1,0 +1,38 @@
+{
+    "AgentSimulationBehavior": {
+        "checkpoints": [
+            {
+                "steps": 522551,
+                "file_path": "results\\AgentSimulationBehavior_B_009\\AgentSimulationBehavior\\AgentSimulationBehavior-522551.onnx",
+                "reward": -368.1216996908188,
+                "creation_time": 1773407096.3506188,
+                "auxillary_file_paths": [
+                    "results\\AgentSimulationBehavior_B_009\\AgentSimulationBehavior\\AgentSimulationBehavior-522551.pt"
+                ]
+            },
+            {
+                "steps": 702096,
+                "file_path": "results\\AgentSimulationBehavior_B_009\\AgentSimulationBehavior\\AgentSimulationBehavior-702096.onnx",
+                "reward": -778.5831499099731,
+                "creation_time": 1773409825.701791,
+                "auxillary_file_paths": [
+                    "results\\AgentSimulationBehavior_B_009\\AgentSimulationBehavior\\AgentSimulationBehavior-702096.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 702096,
+            "file_path": "results\\AgentSimulationBehavior_B_009\\AgentSimulationBehavior.onnx",
+            "reward": -778.5831499099731,
+            "creation_time": 1773409825.701791,
+            "auxillary_file_paths": [
+                "results\\AgentSimulationBehavior_B_009\\AgentSimulationBehavior\\AgentSimulationBehavior-702096.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
