@@ -1,23 +1,23 @@
 {
-    "AgentRealisticBehavior": {
+    "AgentSimulationBehavior": {
         "checkpoints": [
             {
                 "steps": 13987,
-                "file_path": "results\\AgentArcadeTransfert03\\AgentRealisticBehavior\\AgentRealisticBehavior-13987.onnx",
+                "file_path": "results\\AgentArcadeTransfert03\\AgentSimulationBehavior\\AgentSimulationBehavior-13987.onnx",
                 "reward": 2.086135490735372,
                 "creation_time": 1777557119.5496979,
                 "auxillary_file_paths": [
-                    "results\\AgentArcadeTransfert03\\AgentRealisticBehavior\\AgentRealisticBehavior-13987.pt"
+                    "results\\AgentArcadeTransfert03\\AgentSimulationBehavior\\AgentSimulationBehavior-13987.pt"
                 ]
             }
         ],
         "final_checkpoint": {
             "steps": 13987,
-            "file_path": "results\\AgentArcadeTransfert03\\AgentRealisticBehavior.onnx",
+            "file_path": "results\\AgentArcadeTransfert03\\AgentSimulationBehavior.onnx",
             "reward": 2.086135490735372,
             "creation_time": 1777557119.5496979,
             "auxillary_file_paths": [
-                "results\\AgentArcadeTransfert03\\AgentRealisticBehavior\\AgentRealisticBehavior-13987.pt"
+                "results\\AgentArcadeTransfert03\\AgentSimulationBehavior\\AgentSimulationBehavior-13987.pt"
             ]
         }
     },

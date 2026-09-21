@@ -1,6 +1,6 @@
 default_settings: null
 behaviors:
-  AgentRealisticBehavior:
+  AgentSimulationBehavior:
     trainer_type: ppo
     hyperparameters:
       batch_size: 1024
@@ -35,7 +35,7 @@ behaviors:
           memory: null
           goal_conditioning_type: hyper
           deterministic: false
-    init_path: results\training018\AgentRealisticBehavior\checkpoint.pt
+    init_path: results\training018\AgentSimulationBehavior\checkpoint.pt
     keep_checkpoints: 16
     even_checkpoints: false
     max_steps: 1500000

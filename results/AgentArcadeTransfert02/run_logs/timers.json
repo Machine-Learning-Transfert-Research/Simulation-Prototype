@@ -1,145 +1,145 @@
 {
     "name": "root",
     "gauges": {
-        "AgentRealisticBehavior.Policy.Entropy.mean": {
+        "AgentSimulationBehavior.Policy.Entropy.mean": {
             "value": 3.011059045791626,
             "min": 2.854767084121704,
             "max": 3.035619020462036,
             "count": 72
         },
-        "AgentRealisticBehavior.Policy.Entropy.sum": {
+        "AgentSimulationBehavior.Policy.Entropy.sum": {
             "value": 60031.484375,
             "min": 56846.9765625,
             "max": 60773.09375,
             "count": 72
         },
-        "AgentRealisticBehavior.Step.mean": {
+        "AgentSimulationBehavior.Step.mean": {
             "value": 1439882.0,
             "min": 19994.0,
             "max": 1439882.0,
             "count": 72
         },
-        "AgentRealisticBehavior.Step.sum": {
+        "AgentSimulationBehavior.Step.sum": {
             "value": 1439882.0,
             "min": 19994.0,
             "max": 1439882.0,
             "count": 72
         },
-        "AgentRealisticBehavior.Policy.ExtrinsicValueEstimate.mean": {
+        "AgentSimulationBehavior.Policy.ExtrinsicValueEstimate.mean": {
             "value": 0.3954436182975769,
             "min": 0.2511434853076935,
             "max": 1.1439878940582275,
             "count": 72
         },
-        "AgentRealisticBehavior.Policy.ExtrinsicValueEstimate.sum": {
+        "AgentSimulationBehavior.Policy.ExtrinsicValueEstimate.sum": {
             "value": 72.36618041992188,
             "min": 45.959259033203125,
             "max": 212.78173828125,
             "count": 72
         },
-        "AgentRealisticBehavior.Environment.EpisodeLength.mean": {
+        "AgentSimulationBehavior.Environment.EpisodeLength.mean": {
             "value": 409.0208333333333,
             "min": 329.95,
             "max": 498.0731707317073,
             "count": 72
         },
-        "AgentRealisticBehavior.Environment.EpisodeLength.sum": {
+        "AgentSimulationBehavior.Environment.EpisodeLength.sum": {
             "value": 19633.0,
             "min": 18835.0,
             "max": 21197.0,
             "count": 72
         },
-        "AgentRealisticBehavior.Environment.CumulativeReward.mean": {
+        "AgentSimulationBehavior.Environment.CumulativeReward.mean": {
             "value": 1.7553530199608456,
             "min": 1.0620389525301572,
             "max": 2.2339033999157194,
             "count": 72
         },
-        "AgentRealisticBehavior.Environment.CumulativeReward.sum": {
+        "AgentSimulationBehavior.Environment.CumulativeReward.sum": {
             "value": 84.25694495812058,
             "min": 43.54359705373645,
             "max": 112.52083862572908,
             "count": 72
         },
-        "AgentRealisticBehavior.Policy.ExtrinsicReward.mean": {
+        "AgentSimulationBehavior.Policy.ExtrinsicReward.mean": {
             "value": 1.7553530199608456,
             "min": 1.0620389525301572,
             "max": 2.2339033999157194,
             "count": 72
         },
-        "AgentRealisticBehavior.Policy.ExtrinsicReward.sum": {
+        "AgentSimulationBehavior.Policy.ExtrinsicReward.sum": {
             "value": 84.25694495812058,
             "min": 43.54359705373645,
             "max": 112.52083862572908,
             "count": 72
         },
-        "AgentRealisticBehavior.Losses.PolicyLoss.mean": {
+        "AgentSimulationBehavior.Losses.PolicyLoss.mean": {
             "value": 0.023722735662401344,
             "min": 0.017876518345049892,
             "max": 0.029558214576294026,
             "count": 72
         },
-        "AgentRealisticBehavior.Losses.PolicyLoss.sum": {
+        "AgentSimulationBehavior.Losses.PolicyLoss.sum": {
             "value": 0.04744547132480269,
             "min": 0.020653714006766678,
             "max": 0.05810568942688406,
             "count": 72
         },
-        "AgentRealisticBehavior.Losses.ValueLoss.mean": {
+        "AgentSimulationBehavior.Losses.ValueLoss.mean": {
             "value": 0.006942827844371398,
             "min": 0.003994446663030734,
             "max": 0.03561312205468615,
             "count": 72
         },
-        "AgentRealisticBehavior.Losses.ValueLoss.sum": {
+        "AgentSimulationBehavior.Losses.ValueLoss.sum": {
             "value": 0.013885655688742796,
             "min": 0.0050587793656935295,
             "max": 0.039570183120667936,
             "count": 72
         },
-        "AgentRealisticBehavior.Policy.LearningRate.mean": {
+        "AgentSimulationBehavior.Policy.LearningRate.mean": {
             "value": 0.000257202089265975,
             "min": 0.000257202089265975,
             "max": 0.0002996902801032399,
             "count": 72
         },
-        "AgentRealisticBehavior.Policy.LearningRate.sum": {
+        "AgentSimulationBehavior.Policy.LearningRate.sum": {
             "value": 0.00051440417853195,
             "min": 0.00025889872370042996,
             "max": 0.00059845164051612,
             "count": 72
         },
-        "AgentRealisticBehavior.Policy.Epsilon.mean": {
+        "AgentSimulationBehavior.Policy.Epsilon.mean": {
             "value": 0.185734025,
             "min": 0.185734025,
             "max": 0.19989675999999995,
             "count": 72
         },
-        "AgentRealisticBehavior.Policy.Epsilon.sum": {
+        "AgentSimulationBehavior.Policy.Epsilon.sum": {
             "value": 0.37146805,
             "min": 0.18629957000000003,
             "max": 0.39948388,
             "count": 72
         },
-        "AgentRealisticBehavior.Policy.Beta.mean": {
+        "AgentSimulationBehavior.Policy.Beta.mean": {
             "value": 0.004288127847500001,
             "min": 0.004288127847500001,
             "max": 0.004994848323999999,
             "count": 72
         },
-        "AgentRealisticBehavior.Policy.Beta.sum": {
+        "AgentSimulationBehavior.Policy.Beta.sum": {
             "value": 0.008576255695000002,
             "min": 0.004316348543000001,
             "max": 0.009974245611999999,
             "count": 72
         },
-        "AgentRealisticBehavior.IsTraining.mean": {
+        "AgentSimulationBehavior.IsTraining.mean": {
             "value": 1.0,
             "min": 1.0,
             "max": 1.0,
             "count": 72
         },
-        "AgentRealisticBehavior.IsTraining.sum": {
+        "AgentSimulationBehavior.IsTraining.sum": {
             "value": 1.0,
             "min": 1.0,
             "max": 1.0,
@@ -150,7 +150,7 @@
         "timer_format_version": "0.1.0",
         "start_time_seconds": "1777545213",
         "python_version": "3.10.12 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 19:01:18) [MSC v.1916 64 bit (AMD64)]",
-        "command_line_arguments": "C:\\Users\\omaya\\anaconda3\\envs\\PFM\\lib\\site-packages\\mlagents\\trainers\\learn.py config/AgentRealisticBehavior_config.yaml --run-id=AgentArcadeTransfert02 --base-port=5005 --initialize-from=training021",
+        "command_line_arguments": "C:\\Users\\omaya\\anaconda3\\envs\\PFM\\lib\\site-packages\\mlagents\\trainers\\learn.py config/AgentSimulationBehavior_config.yaml --run-id=AgentArcadeTransfert02 --base-port=5005 --initialize-from=training021",
         "mlagents_version": "1.1.0",
         "mlagents_envs_version": "1.1.0",
         "communication_protocol_version": "1.5.0",

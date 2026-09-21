@@ -1,10 +1,10 @@
-# Machine Learning Transfer Research: Realistic Prototype
+# Machine Learning Transfer Research: Simulation Prototype
 
 <p align="center">
-    <img src="./Readme/realistic.png" width="576" height="324" alt="arcade game"/>
+    <img src="./Readme/simulation.png" width="576" height="324" alt="arcade game"/>
 </p>
 
-Realistic prototype for the research project: [**Evaluating transfer learning for reinforcement learning agents across same-genre video games**](https://github.com/Machine-Learning-Transfert-Research) <br>
+Simulation prototype for the research project: [**Evaluating transfer learning for reinforcement learning agents across same-genre video games**](https://github.com/Machine-Learning-Transfert-Research) <br>
 Research project carried out in partnership between [PulluP Entertainment](https://pullupent.com/en) and [ISART Digital Paris](https://www.isart.fr/)
 
 <p align="center">
@@ -19,7 +19,7 @@ Research project carried out in partnership between [PulluP Entertainment](https
 - [Credits](#credits)
 
 ## Presentation 
-This project was developed in **Unity** by a team of four to prototype a realistic racing game in order to train on it, an agent with machine learning and transfer it to the other prototype we made, an [Arcade prototype](https://github.com/Machine-Learning-Transfert-Research/Arcade-Prototype).
+This project was developed in **Unity** by a team of four to prototype a simulation racing game in order to train on it, an agent with machine learning and transfer it to the other prototype we made, an [Arcade prototype](https://github.com/Machine-Learning-Transfert-Research/Arcade-Prototype).
 
 ## Setup
 Warning: Make sure to have installed the python environment
@@ -33,7 +33,7 @@ conda activate mlagents
 ```
 3. Start training
 ```
-mlagents-learn config/AgentRealisticBehavior_config.yaml --run-id=Training_Name
+mlagents-learn config/AgentSimulationBehavior_config.yaml --run-id=Training_Name
 ```
 
 In **Unity** 
